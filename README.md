@@ -1,4 +1,4 @@
-## Tech Enthusiast. Privacy Champion. Security Tools Guru.
+## Tech Enthusiast | Privacy Champion | Security Tools Guru.
 
 <!--
 **JohnAssures/JohnAssures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
